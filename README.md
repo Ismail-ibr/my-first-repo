@@ -1,28 +1,25 @@
-# This is a large heading
+# IBRAHMI Ismail
 
-## This is a smaller heading
+### Geography
 
-And as **imagination** bodies forth,
-The forms of things *unknown*, the poet’s pen,
-Turns them to shapes and gives to airy nothing,
-A local *habitation* and a **name**.
+I live in the city of Temara, in Morocco.
 
-- This is
-- an unordered
-- list
+### Hobbies
 
-1. This is
-2. an ordered
-3. list
+I like
 
-Here is `some code` in the middle of a sentence.
+- Programming
+- Reading
+- learning
 
-```
-This is
-a block
-of code
-```
+### Career
 
-Here is how you make [a link](https://www.wikipedia.org/).
+I studied in: 
 
-![This is an image.](https://github.com/yihui/xaringan/releases/download/v0.0.2/karl-moustache.jpg)
+1. ENSA Tanger
+2. EMSI
+
+### Contanct
+
+You can find me by [email](ibrahmiismail3@gmail.com).
+
