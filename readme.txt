@@ -1,5 +1,2 @@
 Welcome to My First Repo
-sdczdc
-
-from upup
->>>>>>> upup
+just learning git and github
